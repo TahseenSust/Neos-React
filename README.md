@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+To install the project dependency
+
 ### `npm start` :watch:
 
 Runs the app in the development mode and watches for changes in tailwind classes.<br />
