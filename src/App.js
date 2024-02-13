@@ -16,7 +16,7 @@ function App() {
           <div className=" md:w-1/2  order-1 md:order-2">
             <div className="w-full px-12 py-4 md:py-8 flex justify-center items-center flex-col gap-4">
               <img src={remoteCompany} alt="" className="" />
-              <h1 className=" text-xl md:text-3xl font-bold whitespace-nowrap">
+              <h1 className=" text-2xl md:text-3xl font-bold whitespace-nowrap">
                 Price to Pay: €3,600.00
               </h1>
               <button className=" bg-Primary-Color text-white px-6 py-4 rounded-2xl hidden md:block">
